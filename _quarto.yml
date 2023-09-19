@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Walker Bicentennial Farm"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+        icon: house
+      - href: history.qmd
+        text: Farm History
+      - href: about.qmd
+        text: About Us
+  search: false
+  
+  
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    fontsize: 1.5em
+    fontcolor: white
+    Linestretch: 1.0
+    backgroundcolor: gray
+
+
+

@@ -1,0 +1,10 @@
+---
+title: "Welcome to our farm!"
+about: jolla
+---
+
+![](images/20230916_090018-01.jpg){fig-align="center" width="765"}
+
+We are a beef and crop farm that has been owned and operated by the same family since 1819 and are the 6th and 7th generations of this operation. In 2023, Ohio's Department of Agriculture recognized our farm as a Bicentennial Farm in its Historical Family Farms Program.
+
+![](images/20230316_170229.jpg){width="521"}
