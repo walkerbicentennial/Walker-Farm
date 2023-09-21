@@ -10,7 +10,7 @@ website:
         text: Home
         icon: house
       - href: history.qmd
-        text: Farm History
+        text: The Farm
       - href: about.qmd
         text: About Us
   search: false
