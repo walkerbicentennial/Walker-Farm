@@ -15,11 +15,10 @@ website:
         text: About
       - href: contact.qmd
         text: Contact
+      - href: beef.qmd
+        text: Beef
       - href: "https://www.facebook.com/walkerbicentennial"
         icon: facebook
-    
-   ##   - href: beef.qmd
-    ##    text: Beef
     background: black
     foreground: red
     pinned: true
