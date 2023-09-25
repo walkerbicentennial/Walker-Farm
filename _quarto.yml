@@ -7,24 +7,37 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Home
+        text: " "
         icon: house
       - href: history.qmd
         text: The Farm
       - href: about.qmd
-        text: About Us
+        text: About
+      - href: contact.qmd
+        text: Contact
+   ##   - href: beef.qmd
+    ##    text: Beef
+    background: black
+    foreground: red
+    pinned: true
+
+   ## font-family: Adobe Devanagari !important
+   ## font-size: 5.0em !important
+  ##  logo: 
   search: false
+  
   
   
 format:
   html:
-    theme: minty
+    theme: journal
     css: styles.css
     toc: true
     fontsize: 1.5em
     fontcolor: white
-    Linestretch: 1.0
+    Linestretch: 0.5
     backgroundcolor: gray
+   
 
 
 
