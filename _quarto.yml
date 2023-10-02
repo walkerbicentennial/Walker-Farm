@@ -11,25 +11,41 @@ website:
         icon: house
       - href: history.qmd
         text: The Farm
-      - href: about.qmd
-        text: About
       - href: contact.qmd
         text: Contact
+        icon: envelope
       - href: beef.qmd
-        text: Beef
+        text: Beef      
+      - href: "tel13305753957"
+        icon: telephone
+      - href: "mailto:walkerbicentennial@gmail.com"
+        icon: envelope
       - href: "https://www.facebook.com/walkerbicentennial"
         icon: facebook
-    background: black
+      - href: "https://www.instagram.com/walkerbicentennial"
+        icon: instagram
+
+    background: white
     foreground: red
     pinned: true
-
-   ## font-family: Adobe Devanagari !important
-   ## font-size: 5.0em !important
-  ##  logo: 
   search: false
-  repo-url: https://github.come/walkerbicentennial/walkerbicentennial.github.io
-  repo-actions: [edit, issue]
-  
+  page-footer: 
+    right: 
+      - text: "13942 Warren Road NE 
+               Paris, Ohio 44669"
+    center: 
+      - href: "tel13305753957"
+        icon: telephone
+      - href: "mailto:walkerbicentennial@gmail.com"
+        icon: envelope
+      - href: "https://www.facebook.com/walkerbicentennial"
+        icon: facebook
+      - href: "https://www.instagram.com/walkerbicentennial"
+        icon: instagram
+    left: 
+      - text: "2023 Walker Bicentennial Farm"       
+        icon: c-circle
+    foreground: red
   
 format:
   html:
@@ -39,7 +55,7 @@ format:
     fontsize: 1.5em
     fontcolor: white
     Linestretch: 0.5
-    backgroundcolor: gray
+    backgroundcolor: black
    
 
 

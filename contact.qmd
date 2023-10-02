@@ -3,6 +3,12 @@ title: "Contact Us or See What We Have Been Up To"
 editor: visual
 ---
 
+## Farm Location
+
+13942 Warren Road NE
+
+Paris, Ohio 44669
+
 ## **Call or text**
 
 Dan: 330-206-0898
@@ -11,7 +17,7 @@ Sonia: 330-575-3957
 
 ## **Email**
 
-walkerbicentennial\@gmail.com
+[walkerbicentennial\@gmail.com](mailto:walkerbicentennial@gmail.com)
 
 ## **Facebook**
 
