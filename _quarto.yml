@@ -13,7 +13,6 @@ website:
         text: The Farm
       - href: contact.qmd
         text: Contact
-        icon: envelope
       - href: beef.qmd
         text: Beef      
       - href: "tel13305753957"
@@ -34,7 +33,7 @@ website:
       - text: "13942 Warren Road NE 
                Paris, Ohio 44669"
     center: 
-      - href: "tel13305753957"
+      - href: "tel:13305753957"
         icon: telephone
       - href: "mailto:walkerbicentennial@gmail.com"
         icon: envelope
