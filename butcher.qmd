@@ -1,0 +1,15 @@
+---
+title: "The Butcher"
+editor: visual
+about: jolla
+---
+
+Unless other arrangements are made, all butcher dates are reserved with, animals delivered to and meat picked up at Kiko Meats near Minerva, Ohio for processing.
+
+Kiko Meats is located at 1548 Union Ave, Minerva, Ohio
+
+Phone [330-868-6439](tel:1330868-6439)
+
+Processing fees are listed at [Kiko Meat's website](https://www.kikomeatsinc.com/blank-4) and a cut sheet is available here for your reference.
+
+![](images/kiko%20beef%20cut%20sheet-05.pdf){fig-align="center" width="500" height="700"}

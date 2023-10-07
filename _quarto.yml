@@ -4,19 +4,26 @@ project:
 
 website:
   title: "Walker Bicentennial Farm"
+  site-url: https://walkerbicentennial.github.io/
+  favicon: "images/logo.jpg"
   navbar:
+    logo: images/logo.jpg
     right:
-      - href: index.qmd
-        text: " "
-        icon: house
       - href: history.qmd
-        text: The Farm
+        text: About
       - href: contact.qmd
         text: Contact
-      - href: beef.qmd
-        text: Beef      
-      - href: "tel13305753957"
-        icon: telephone
+      - text: Beef 
+        menu: 
+          - text: 2024 Custom Butchered Beef
+            href: pricing.qmd
+          - text: The Butcher
+            href: butcher.qmd
+          - text: Cuts of Meat
+            href: meat.qmd
+          - text: Order policy
+            href: policy.qmd
+      - href: "tel:13305753957"
       - href: "mailto:walkerbicentennial@gmail.com"
         icon: envelope
       - href: "https://www.facebook.com/walkerbicentennial"
@@ -24,8 +31,9 @@ website:
       - href: "https://www.instagram.com/walkerbicentennial"
         icon: instagram
 
-    background: white
-    foreground: red
+    background: "#ffffff" #white
+    mainfont: Adobe Devanagari
+    foreground: "#cc0000" # red
     pinned: true
   search: false
   page-footer: 
@@ -44,17 +52,20 @@ website:
     left: 
       - text: "2023 Walker Bicentennial Farm"       
         icon: c-circle
-    foreground: red
+    foreground: "#cc0000" # red
   
 format:
   html:
     theme: journal
-    css: styles.css
+    css: journal.scss
     toc: true
     fontsize: 1.5em
-    fontcolor: white
+    fontcolor: "#ffffff" # white
     Linestretch: 0.5
     backgroundcolor: black
+    linkcolor: white
+    foreground: "#cc0000" # red
+    mainfont: Adobe Devanagari
    
 
 

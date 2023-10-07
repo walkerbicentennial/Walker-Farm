@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<link href="./images/logo.jpg" rel="icon" type="image/jpeg">
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -44,12 +45,13 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="journal.scss">
 </head>
 
 <body class="nav-fixed">
@@ -59,6 +61,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo.jpg" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Walker Bicentennial Farm</span>
     </a>
@@ -69,25 +74,38 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target=""><i class="bi bi-house" role="img">
-</i> 
- <span class="menu-text"> </span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./history.html" rel="" target="">
- <span class="menu-text">The Farm</span></a>
+ <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./contact.html" rel="" target="" aria-current="page">
  <span class="menu-text">Contact</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./beef.html" rel="" target="">
- <span class="menu-text">Beef</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-beef" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Beef</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-beef">    
+        <li>
+    <a class="dropdown-item" href="./pricing.html" rel="" target="">
+ <span class="dropdown-text">2024 Custom Butchered Beef</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./butcher.html" rel="" target="">
+ <span class="dropdown-text">The Butcher</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./meat.html" rel="" target="">
+ <span class="dropdown-text">Cuts of Meat</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./policy.qmd" rel="" target="">
+ <span class="dropdown-text">Order policy</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="./tel13305753957" rel="" target=""><i class="bi bi-telephone" role="img">
-</i> 
+    <a class="nav-link" href="tel:13305753957" rel="" target="">
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
