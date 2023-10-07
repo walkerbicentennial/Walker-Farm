@@ -1,10 +1,12 @@
 ---
-title: "Cuts of Meat"
+title: "What Do I Get?"
 editor: visual
 about: jolla
 ---
 
-First time ordering custom butchered beef or not sure how many of a particular cut to expect in your order? A 750-pound carcass will yield on average 500 lbs of meat with the average amount listed below from each area of the carcass
+First time ordering custom butchered beef?
+
+A 750-pound carcass will yield on average 500 lbs of meat with the average amount listed below from each area of the carcass
 
 *185 lbs of lean trim or ground beef*
 

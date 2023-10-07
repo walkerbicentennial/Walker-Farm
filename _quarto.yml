@@ -11,18 +11,18 @@ website:
     right:
       - href: history.qmd
         text: About
-      - href: contact.qmd
-        text: Contact
       - text: Beef 
         menu: 
           - text: 2024 Custom Butchered Beef
             href: pricing.qmd
           - text: The Butcher
             href: butcher.qmd
-          - text: Cuts of Meat
+          - text: What Do I Get?
             href: meat.qmd
           - text: Order policy
             href: policy.qmd
+      - href: contact.qmd
+        text: Contact
       - href: "tel:13305753957"
       - href: "mailto:walkerbicentennial@gmail.com"
         icon: envelope
