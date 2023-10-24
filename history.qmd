@@ -2,13 +2,26 @@
 title: "History of the Walker Bicentennial Farm "
 editor: visual
 about: jolla
+format: 
+  html: 
+    toc: true
+    include-in-header:
+      text: 
+        <style>
+        h2 {
+        color:rgb(204, 0, 0);
+        }
+        h4 {
+        color:rgb(204, 0, 0);
+        }
+        </style>
 ---
 
 ![](images/house.jpg){width="529"}
 
 ##### *House-Circa 1912*
 
-### *The early generations*
+## *The early generations*
 
 The farm has seen many family members and changes in its 200 year history.
 
@@ -34,7 +47,7 @@ After raising hogs, Lloyd purchased three Angus cows in 1959 from R.E. Snode of 
 
 Before Mabel's death, Olen Walker and Lois, his wife, continued to run the Angus herd and growing ear corn, wheat, hay and oats until Dan and Sonia started taking over in 2002.
 
-### *Today's generations*
+## *Today's generations*
 
 With the assistance of our children, Leeann, Payton, and Andrew, we continue to run the farm today. Although now in his 90's, Olen can be found around the farm from time to time checking up on his grand kids and great-grand kids or running a tractor.
 

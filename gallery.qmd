@@ -1,0 +1,75 @@
+---
+title: "Photo Gallery"
+editor: visual
+---
+
+# Pictures
+
+-   Cows
+
+-   Kids
+
+-   Buildings
+
+# Testimonals
+
+------------------------------------------------------------------------
+
+``` r
+x <- 3
+x * 6
+```
+
+```{r}
+x <- 3
+x * 6
+
+```
+
+``` r
+```
+
+``` r
+library(ggplot2)
+ggplot(data = iris,
+       mapping = aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
+  geom_point()
+```
+
+```{r}
+library(ggplot2)
+ggplot(data = iris,
+       mapping = aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
+  geom_point()
+
+```
+
+::: panel-tabset
+## cows
+
+Sadie
+
+![WBF](images/20230316_170229.jpg){fig-align="center"}
+
+Stella
+
+## kids
+
+Leeann
+
+<br>
+
+<kbd> Time to order
+
+</kbd>
+
+Payton
+
+## buildings
+
+::: callout-important
+## Order
+
+Barn
+:::
+:::

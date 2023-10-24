@@ -4,8 +4,6 @@ editor: visual
 about: jolla
 ---
 
-# Order policy
-
 1.      To reserve a butcher date, Dan or Sonia Walker must have the customer's name, address, email, phone number, deposit, and desired butcher date(s) before confirmation will be completed.
 
 2.      We will attempt to accommodate a customer's requested butcher date as much as possible, but if we need to change your request, we reserve the right to do so. We will attempt to give you as much notification in advance if such a change needs to occur.

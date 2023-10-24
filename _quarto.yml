@@ -11,16 +11,17 @@ website:
     right:
       - href: history.qmd
         text: About
-      - text: Beef 
-        menu: 
-          - text: 2024 Custom Butchered Beef
-            href: pricing.qmd
-          - text: The Butcher
-            href: butcher.qmd
-          - text: What Do I Get?
-            href: meat.qmd
-          - text: Order policy
-            href: policy.qmd
+      - href: new beef.qmd
+        text: Beef 
+        #menu: 
+          #- text: 2024 Custom Butchered Beef
+            #href: pricing.qmd
+          #- text: The Butcher
+            #href: butcher.qmd
+          #- text: What Do I Get?
+            #href: meat.qmd
+          #- text: Order Policy
+            #href: order.qmd
       - href: contact.qmd
         text: Contact
       - href: "tel:13305753957"
@@ -58,7 +59,7 @@ format:
   html:
     theme: journal
     css: journal.scss
-    toc: true
+    toc: false
     fontsize: 1.5em
     fontcolor: "#ffffff" # white
     Linestretch: 0.5

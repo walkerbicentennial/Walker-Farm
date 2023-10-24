@@ -8,10 +8,10 @@ about: jolla
 
 It is time to order your beef for 2024! With custom butchering, you can decide if you want a quarter, half or whole beef and get the cuts you want, the way you like them!
 
-# [2024 Custom Butchered Beef](https://walkerbicentennial.github.io/pricing.qmd)
+# [2024 Custom Butchered Beef](https://walkerbicentennial.github.io/pricing.html)
 
-# The Butcher Shop
+# [The Butcher Shop](https://walkerbicentennial.github.io/butcher.html)
 
-# What do I get
+# [What do I get](https://walkerbicentennial.github.io/meat.html)
 
-# Order policy
+# [Order policy](https://walkerbicentennial.github.io/order.html)

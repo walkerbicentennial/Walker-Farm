@@ -1,6 +1,15 @@
 ---
 title: "Contact Us or See What We Have Been Up To"
 editor: visual
+format: 
+  html: 
+    include-in-header:
+      text: 
+        <style>
+        h2 {
+        color:rgb(204, 0, 0);
+        }
+        </style>
 ---
 
 ![](images/20230514_192201.jpg){fig-align="center" width="619"}
