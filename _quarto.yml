@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Walker Bicentennial Farm"
-  site-url: https://walkerbicentennial.github.io/
+  site-url: "https://walkerbicentennial.github.io"
+  site-path: '/'
+  google-analytics: "G-MC2NDEMG0M"
   favicon: "images/logo.jpg"
   navbar:
     logo: images/logo.jpg
