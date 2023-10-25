@@ -16,15 +16,11 @@ format:
 
 ## Farm Location
 
-13942 Warren Road NE
-
-Paris, Ohio 44669
+13942 Warren Road NE<br>Paris, Ohio 44669
 
 ## **Call or text**
 
-Dan: [330-206-0898](tel:13302060898)
-
-Sonia: [330-575-3957](tel:13305753957)
+Dan: [330-206-0898](tel:13302060898)<br>Sonia: [330-575-3957](tel:13305753957)
 
 ## **Email**
 

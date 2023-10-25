@@ -13,8 +13,7 @@ format:
         }
         </style>
 ---
-
-It is time to order your locally grown beef for 2024! With custom butchering, you can decide if you want a quarter, half or whole beef and get the cuts you want, the way you like them, when you want them!
+<font size="100"><font color= "cc0000">It is time to order your locally grown beef for 2024! </font></font><br>With custom butchering, you can decide if you want a quarter, half or whole beef and get the cuts you want, the way you like them, when you want them!
 
 ![](images/steaks.jpg){fig-align="center" width="50%"}
 
@@ -35,29 +34,17 @@ May 20, 2024</font>
 
 ## Pricing & Ordering
 
-<font size="+15"><font color= "cc0000"> \$3.25\* </font></font>
+<font size="100"><font color= "cc0000"> **\$3.50** </font></font>/lb hanging weight<font size="-1"> + processing fees </font>
 
-per pound of hanging weight
+A minimum \$100 deposit per quarter is required to place an order and reserve a butcher date. At this time we are not set up to take electronic payments and can only accept check or cash.
 
-\*processing fees are an additional charge
-
-A minimum \$100 deposit per quarter is required to place an order and reserve a butcher date.
-
-At this time we are not set up to take electronic payments and can only accept check or cash.
-
-Start an order by clicking the link below, contact Dan ([330-206-0898](tel:13302060898)) or Sonia ([330-575-3957](tel:13305753957)) directly, or send an email at [walkerbicentennial\@gmail.com](mailto:walkerbicentennial@gmail.com). <br>
+Start an order by clicking the link below, contact Dan ([330-206-0898](tel:13302060898)) or Sonia ([330-575-3957](tel:13305753957)) directly, or emailing at [walkerbicentennial\@gmail.com](mailto:walkerbicentennial@gmail.com). <br>
 
 <font size="+7"> <font color= "cc0000"> [Place your order today!](https://docs.google.com/forms/d/e/1FAIpQLSdIpT-AfEarTba-ypHyM-75MP7_SaKzYB5rEw-Av8MMdW0RHw/viewform?vc=0&c=0&w=1&flr=0) </font> </font>
 
 ## The Butcher
 
-Unless other arrangements are made, all butcher dates are reserved with, animals delivered to and meat picked up at
-
-<font size="+10"> Kiko Meats </font>
-
-Located at 1548 Union Ave, Minerva, Ohio
-
-Phone [330-868-6439](tel:1330868-6439)
+Unless other arrangements are made, all butcher dates are reserved with, animals delivered to and meat picked up at <br> <font size="100"><font color= "cc0000"><em> **Kiko Meats** </em></font></font><br> 1548 Union Ave, Minerva, Ohio <br> [330-868-6439](tel:1330868-6439)
 
 Processing fees are listed at [Kiko Meat's website](https://www.kikomeatsinc.com/blank-4) and a cut sheet is available here for your reference.
 
@@ -65,17 +52,11 @@ Processing fees are listed at [Kiko Meat's website](https://www.kikomeatsinc.com
 
 ## How Much Meat Do I Get?
 
-A 750-pound carcass will yield on average 500 lbs of meat with the average amount listed below from each area of the carcass
+<font size="+3">A whole beef of ours has an average carcass hanging weight of</font> <br> <font size="+4">725 pounds</font>
 
-*185 lbs of lean trim or ground beef*
+<font size="+3"> A 750-pound carcass will yield on average 500 lbs of meat with the average amount listed below from each area of the carcass </font><br> <font size="+2">*185 lbs of lean trim or ground beef*<br> *85 lbs round roasts and steaks*<br> *90 lbs chuck roasts and steaks*<br> *80 lbs rib and loin steaks*<br> *50 lbs of other cuts (brisket, flank, short ribs, skirt steak)*<br></font>
 
-*85 lbs round roasts and steaks*
-
-*90 lbs chuck roasts and steaks*
-
-*80 lbs rib and loin steaks*
-
-*50 lbs of other cuts (brisket, flank, short ribs, skirt steak)*
+If you are not purchasing a whole beef, the weights listed above should be halved or quartered depending on your order.
 
 ## Ordering Policy
 
@@ -95,13 +76,11 @@ A 750-pound carcass will yield on average 500 lbs of meat with the average amoun
 
 8.      We will bill you for the beef separately from Kiko Meats' processing fees. Our bill will be for the cost of the meat minus your deposit. Payment in full is expected within 30 days of the billing date. If you provide us with a check that has insufficient funds, a \$30 service fee will be charged. If unable to pay the full amount in 30 days, please contact us for payment arrangements. At this time, we are unable to take electronic or credit card payments, but hope to have this option in the future.
 
-9.      For the purpose of estimating costs, the hanging weight for a whole beef [averages]{.underline} 725 lbs.
+9.      Customers with an overdue balance from a previous order will not be able to place a new order until the previous order has been paid in full and the above requirements are met for any new orders.
 
-10.      Customers with an overdue balance from a previous order will not be able to place a new order until the previous order has been paid in full and the above requirements are met for any new orders.
+10.   Any questions, concerns or comments can be addressed to Dan or Sonia.
 
-11.   Any questions, concerns or comments can be addressed to Dan or Sonia.
-
-12.   All deposits and payments can be mailed or delivered to 13942 Warren Rd, Paris OH 44669. Checks should be made out to Sonia Walker.
+11.   All deposits and payments can be mailed or delivered to 13942 Warren Rd, Paris OH 44669. Checks should be made out to Sonia Walker.
 
 Policy implemented April 23, 2012.  Policy updated October 1, 2023.
 :::
