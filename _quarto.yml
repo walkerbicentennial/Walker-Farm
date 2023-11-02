@@ -15,14 +15,15 @@ website:
         text: About
       - href: new beef.qmd
         text: Beef 
-        #menu: 
-          #- text: 2024 Custom Butchered Beef
-            #href: pricing.qmd
-          #- text: The Butcher
+     # - text: Photo Gallery
+      #  menu: 
+      #    - text: Our Winners
+      #      href: winners.qmd
+       #   - text: Family
             #href: butcher.qmd
-          #- text: What Do I Get?
+       #   - text: Farming
             #href: meat.qmd
-          #- text: Order Policy
+      #    - text: Cows
             #href: order.qmd
       - href: contact.qmd
         text: Contact

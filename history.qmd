@@ -19,7 +19,7 @@ format:
 
 ![](images/house.jpg){width="529"}
 
-##### *House-Circa 1912*
+<font size="+2">*House-Circa 1912*</font><br>
 
 ## *The early generations*
 
@@ -31,7 +31,7 @@ On December 12, 1833, George's daughter, Elizabeth married a gentleman by the na
 
 ![](images/barn-01.jpg){width="500"}
 
-##### *Barn-circa 1912*
+<font size="+2">*Barn-circa 1912*</font>
 
 Phillip farmed until his death in 1898. During that time, he had remarried twice and had 10 children. In October 1899, his son, Jacob H. Walker (Dan's great-great grandfather) inherited and/or purchased these 80 acres from his siblings for \$4000.
 

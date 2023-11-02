@@ -1,0 +1,17 @@
+---
+title: "Our Winners"
+editor: visual
+about: jolla
+---
+
+<font size="+3"><font color= "cc0000">STELLA </font></font><br>
+2023 Stark County Fair Grand Champion Angus Heifer <br>
+2023 Stark COunty Fair Overall Grand Champion Heifer <br>
+2022-2023 B.E.S.T 5TH Overall Angus Heifer
+
+<font size="+3"><font color= "cc0000">SADIE </font></font><br>
+2023 CMT County Line Blast Reserve Champion Heifer
+
+<font size="+3"><font color= "cc0000">REMY </font></font><br>
+2023 CMT County Line Blast Grand Champion Simmental Heifer
+---
